@@ -211,5 +211,7 @@
  This repository is a complete Expo-based movie app prototype designed to help you explore how file-based routing, API integration, search, detail screens, and local auth work together in one React Native app.
 
  ---
-
- If you'd like, I can also help add a Polish README in Urdu/Hindi style or translate this into a mixed Urdu-English version for your team.
+# Contact us 
+faheemtech3@gmail.com
+# Build This Project
+Faheem Tech 
