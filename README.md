@@ -3,7 +3,7 @@
 <img width="960" height="504" alt="1" src="https://github.com/user-attachments/assets/90d2edfb-df1d-4ad1-a033-dcf34cd14c05" />
 <img width="960" height="504" alt="2" src="https://github.com/user-attachments/assets/2142890a-99f6-4598-98d7-fb808a3c0dee" />
 
-CineBox Expo Movie App
+# CineBox Expo Movie App
  A complete Expo app for browsing movies and TV series using TMDb data. This repository is built with Expo Router, React Native, NativeWind, and local authentication using AsyncStorage.
 
  ## 🔥 What this app does
